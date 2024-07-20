@@ -1,0 +1,11 @@
+{
+  "workbench.iconTheme": "material-icon-theme",
+  "material-icon-theme.activeIconPack": "react",
+  "explorer.compactFolders": false,
+  "workbench.tree.indent": 14,
+  "workbench.colorTheme": "Min Darker Theme (by GmsGarcia)",
+  "editor.fontFamily": "Fira Code, 'Fira Code','Droid Sans Mono', 'monospace', monospace",
+  "editor.fontLigatures": true,
+  "editor.formatOnSave": true,
+  "editor.renderLineHighlight": "gutter",
+}
