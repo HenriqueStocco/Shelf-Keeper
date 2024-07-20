@@ -1,0 +1,6 @@
+.env
+.vscode/**/*.json/
+dist/
+node_modules/
+.prettierrc
+.prettierignore
