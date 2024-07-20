@@ -1,5 +1,5 @@
-import { app } from './app';
+import App from './app';
 
-app.listen({ port: 3333, host: '127.0.0.1' }).then(() => {
-  console.log('HTTP server running');
-});
+App.listen({ port: 3333, host: '127.0.0.1' })
+  .then((url) => console.log(`HTTP server running on ${url}`))
+  .catch((e) => console.error('Error to starting server ', e));
